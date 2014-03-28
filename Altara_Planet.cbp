@@ -36,7 +36,13 @@
 		<Unit filename="Lista.h" />
 		<Unit filename="Pelotita.cpp" />
 		<Unit filename="Pelotita.h" />
+		<Unit filename="allien.cpp" />
+		<Unit filename="allien.h" />
+		<Unit filename="llama.cpp" />
+		<Unit filename="llama.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="piranha.cpp" />
+		<Unit filename="piranha.h" />
 		<Extensions>
 			<code_completion />
 			<debugger />
